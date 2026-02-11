@@ -18,7 +18,7 @@ O objetivo foi aprender Python, Tkinter e como publicar projetos no GitHub.
 Certifica‑te de que tens o Python 3 instalado.
 
 ### 2. Instalar dependências  
-O projeto usa apenas Tkinter (já vem com o Python) e Pillow (se quiseres usar imagens).
+O projeto usa apenas Tkinter (já vem com o Python) e Pillow 
 
 Para instalar Pillow:
 pip install pillow
@@ -33,15 +33,9 @@ python slot_machine_viagens_tkinter.py
 ## 🧠 Tecnologias usadas
 
 - **Python 3**
-- **Tkinter** (interface gráfica)
-- **Pillow** (opcional, para imagens)
+- **Tkinter** 
+- **Pillow** 
 - Git + GitHub
-
----
-
-## 📸 Screenshot (opcional)
-
-*(Podes adicionar aqui uma imagem do jogo mais tarde)*
 
 ---
 
